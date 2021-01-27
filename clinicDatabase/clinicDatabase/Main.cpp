@@ -3,9 +3,9 @@
 //Fall 2020																//
 //																		//
 //Authors:																//
-//Justin Kachornvanich													//
-//Sean Novac															//
-//Christopher Powers													//
+//Justin ****															//
+//Sean Novak															//
+//Christopher ****														//
 //																		//
 //////////////////////////////////////////////////////////////////////////
 
